@@ -1,0 +1,7 @@
+type: server
+
+client_package_path: ../authdemo_client
+
+modules:
+  serverpod_auth_server:
+    nickname: auth
